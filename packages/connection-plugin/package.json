@@ -25,5 +25,8 @@
   },
   "bugs": {
     "url": "https://github.com/lginsane/lg-rete/issues"
+  },
+  "dependencies": {
+    "vue": "^3.2.37"
   }
 }

@@ -28,5 +28,8 @@
   },
   "devDependencies": {
     "typescript": "^4.7.4"
+  },
+  "dependencies": {
+    "vue": "^3.2.37"
   }
 }
